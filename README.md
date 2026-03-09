@@ -18,7 +18,7 @@ To keep this space helpful and friendly, please:
 ### ❤️ Support Us
 If you enjoy what we are building, consider supporting the project:
 - [**Make a donation**](https://buymeacoffee.com/fraank)
-- **Contribute**: Help others by answering questions in the [Discussions tab](/discussions).
+- **Contribute**: Help others by answering questions in the [Discussions tab](https://github.com/Acemagic-Community/discussions/discussions).
 
 ---
 *Let's build a better ACEMAGIC software ecosystem for our devices together!*
